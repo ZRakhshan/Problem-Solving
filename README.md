@@ -1,6 +1,6 @@
 # Problem-Solving
 
-1. Climbing stairs
+Question 1. Climbing stairs
 
 You are climbing a staircase. It takes n steps to reach the top.
 
